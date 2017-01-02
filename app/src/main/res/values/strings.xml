@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Sports101</string>
+
+    <string name="clubNameText">Sports Station 101</string>
+    <string name="imageRunText">Let\'s Play !! </string>
+    <string name="clubMembersText">600+\nMembers</string>
+
+    <string name="redButtonJoinText">JOIN CLASS</string>
+    <string name="redButtonBookText">BOOK COURT</string>
+    <string name="redButtonScheduleText">SCHEDULE</string>
+    <string name="redButtonFindText">FIND PLAYMATES</string>
+    <string name="redButtonDiscoverText">DISCOVER</string>
+    <string name="redButtonLeaseText">LEASE</string>
+
+    <string name="landText">20 ACRES LAND</string>
+    <string name="courtText">OVER 50 COURTS</string>
+    <string name="coachText">CERTIFIED\nCOACHES</string>
+    <string name="rentText">RENT\nEQUIPMENTS</string>
+
+    <string name="phoneTitleText">CALL</string>
+    <string name="phoneDetailsText">022 27716783</string>
+
+    <string name="emailTitleText">EMAIL-ID</string>
+    <string name="emailDetailsText">support@sports10.com</string>
+
+    <string name="partnerTitleText">PARTNER WITH US</string>
+    <string name="partnerDetailsText">partner@sports10.com</string>
+
+    <string name="openTitleText">OPEN HOURS</string>
+    <string name="openDetailsText">Monday to Sundy 6am to 10pm</string>
+
+    <string name="officeTitleText">OFFICE ADDRESS</string>
+    <string name="officeDetailsText">Sports station 101 ,Block.no 50 ,Near Seawoods lake ,Nerul (W) ,Navi Mumbai</string>
+
+    <string name="tennisText">LAWN TENNIS</string>
+    <string name="swimmingText">SWIMMING</string>
+    <string name="athleticsText">ATHLETICS</string>
+    <string name="soccerText">SOCCER</string>
+    <string name="badmintonText">BADMINTON</string>
+    <string name="basketballText">BASKETBALL</string>
+    <string name="gymText">GYM</string>
+
+    <string name="redBorderButtonViewallText">VIEW ALL</string>
+
+    <string name="featuresTitleText">SPORTS ACCOUNT FEATURES</string>
+    <string name="feature1DetailsText">Get customized meal plan on your account</string>
+    <string name="feature2DetailsText">Get reminders an hour before your batch</string>
+    <string name="feature3DetailsText">Join social group of your batch in the app and grow and inspire with each other</string>
+    <string name="feature4DetailsText">Check the schedule of the day in your app</string>
+    <string name="feature5DetailsText">See biodata about your trainers on your app</string>
+    <string name="feature6DetailsText">Special Batches for women and people of all age brackets</string>
+    <string name="feature7DetailsText">Follow current and upcoming events and competitions</string>
+
+    <string name="greenButtonSignupText">SIGN UP</string>
+
+    <string name="paymentTitleText">PAYMENT OPTIONS</string>
+    <string name="paymentDebitText">DEBIT CARD</string>
+    <string name="paymentCreditText">CREDIT CARD</string>
+    <string name="paymentNetbankingText">NET BANKING</string>
+    <string name="paymentCashText">CASH</string>
+    <string name="paymentChequeText">CHEQUE</string>
+    <string name="paymentEwalletText">E WALLETS</string>
+
+    <string name="navbarHomeText">Home</string>
+    <string name="navbarYouText">You</string>
+    <string name="navbarGroupsText">Groups</string>
+    <string name="navbarJoinedText">Joined</string>
+
+</resources>

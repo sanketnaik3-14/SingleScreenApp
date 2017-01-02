@@ -1,0 +1,24 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="circleIconWidth">56dp</dimen>
+    <dimen name="circleIconHeight">56dp</dimen>
+
+    <dimen name="contactIconWidth">36dp</dimen>
+    <dimen name="contactIconHeight">36dp</dimen>
+
+    <dimen name="buttonHeight36">36dp</dimen>
+    <dimen name="buttonHeight44">44dp</dimen>
+
+    <dimen name="diamondIconWidth">32dp</dimen>
+    <dimen name="diamondIconHeight">32dp</dimen>
+
+    <dimen name="paymentIconWidth">56dp</dimen>
+    <dimen name="paymentIconHeight">56dp</dimen>
+
+    <dimen name="navbarIconWidth">24dp</dimen>
+    <dimen name="navbarIconHeight">24dp</dimen>
+
+</resources>
